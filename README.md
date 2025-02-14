@@ -35,7 +35,7 @@ python -m venv venv
 
 *linux/mac bash & windows cmd*
 ```
-git clone https://github.com/???/shop.git
+git clone https://github.com/xmz05/demo_DjangoRESTexample.git
 cd shop
 ```
 
